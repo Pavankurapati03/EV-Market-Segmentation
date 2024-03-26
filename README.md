@@ -1,9 +1,5 @@
 # EV-Market-Segmentation
 
-
-
-# Electric Vehicle Market Analysis Project
-
 ## Overview
 This project focuses on analyzing the electric vehicle (EV) market in India and developing a targeted strategy for market entry. Through segmentation analysis, the project aims to identify key market segments and tailor marketing strategies to effectively target them. The analysis encompasses various aspects of the EV market, including vehicle usage, demographic trends, pricing dynamics, and popular EV models.
 
@@ -15,7 +11,7 @@ To replicate the analysis and results of this project, the following requirement
 
 ## Datasets
 The following datasets were used for the analysis:
-- EV vehicle usage dataset: [Link to Dataset]([insert_link_here](https://www.smev.in/statistics))
+- EV vehicle usage dataset: [Link to Dataset](https://www.smev.in/statistics)
 - Demographic dataset: [Link to Dataset](insert_link_here)
 - Sales dataset: [Link to Dataset](insert_link_here)
 
