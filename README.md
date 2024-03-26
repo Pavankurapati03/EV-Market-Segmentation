@@ -7,7 +7,7 @@ This project focuses on analyzing the electric vehicle (EV) market in India and 
 To replicate the analysis and results of this project, the following requirements are necessary:
 - Python 
 - Jupyter Notebook 
-- Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+- Python libraries: pandas, numpy, matplotlib, scikit-learn
 
 ## Datasets
 The following datasets were used for the analysis:
