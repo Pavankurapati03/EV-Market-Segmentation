@@ -2,8 +2,22 @@
 
 
 
+# Electric Vehicle Market Analysis Project
+
 ## Overview
 This project focuses on analyzing the electric vehicle (EV) market in India and developing a targeted strategy for market entry. Through segmentation analysis, the project aims to identify key market segments and tailor marketing strategies to effectively target them. The analysis encompasses various aspects of the EV market, including vehicle usage, demographic trends, pricing dynamics, and popular EV models.
+
+## Requirements
+To replicate the analysis and results of this project, the following requirements are necessary:
+- Python 
+- Jupyter Notebook 
+- Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## Datasets
+The following datasets were used for the analysis:
+- EV vehicle usage dataset: [Link to Dataset]([insert_link_here](https://www.smev.in/statistics))
+- Demographic dataset: [Link to Dataset](insert_link_here)
+- Sales dataset: [Link to Dataset](insert_link_here)
 
 ## Segmentation Analysis
 The segmentation analysis comprises the following key components:
@@ -20,8 +34,10 @@ The segmentation analysis comprises the following key components:
 4. **EV Model Analysis**:
    - Identified SUVs and Baleno as the most popular EV models.
 
-
 ## Conclusion
 The project provides valuable insights into the EV market in India and outlines a targeted strategy for market entry. By customizing the marketing mix to align with the preferences and needs of each segment, the project aims to drive sales growth and establish a strong presence in the EV industry.
+
+For detailed analysis and code implementation, please refer to the respective directories in this repository.
+insights into the EV market in India and outlines a targeted strategy for market entry. By customizing the marketing mix to align with the preferences and needs of each segment, the project aims to drive sales growth and establish a strong presence in the EV industry.
 
 For detailed analysis and code implementation, please refer to the respective directories in this repository.
