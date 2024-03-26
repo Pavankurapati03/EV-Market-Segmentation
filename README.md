@@ -11,9 +11,9 @@ To replicate the analysis and results of this project, the following requirement
 
 ## Datasets
 The following datasets were used for the analysis:
-- EV vehicle usage dataset: [Link to Dataset](https://www.smev.in/statistics)
-- Demographic dataset: [Link to Dataset](insert_link_here)
-- Sales dataset: [Link to Dataset](insert_link_here)
+- EV vehicle usage dataset: [Link to Dataset](https://data.gov.in/resource/category-wise-number-electric-vehicles-used-roads-india-03-august-2022).
+- Demographic dataset: [Link to Dataset](https://docs.google.com/spreadsheets/d/1deb1cQsAMGCT_njTbpTaUUgUfOgtAx8ggx61N77zQzs/edit#gid=1871162304)
+- Sales dataset: [Link to Dataset](https://www.smev.in/statistics)
 
 ## Segmentation Analysis
 The segmentation analysis comprises the following key components:
