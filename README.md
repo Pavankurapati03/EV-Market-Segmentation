@@ -8,6 +8,7 @@ To replicate the analysis and results of this project, the following requirement
 - Python 
 - Jupyter Notebook 
 - Python libraries: pandas, numpy, matplotlib, scikit-learn
+- Algorithms Used : K-Means Clustering
 
 ## Datasets
 The following datasets were used for the analysis:
